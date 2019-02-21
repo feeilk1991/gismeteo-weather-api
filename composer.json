@@ -3,7 +3,7 @@
     "description": "Fork for simple PHP wrapper for Gismeteo private weather endpoints",
     "version": "1.0",
     "license": "GPL",
-    "homepage": "https://github.com/slruslan/gismeteo-weather-api",
+    "homepage": "https://github.com/feeilk1991/gismeteo-weather-api",
     "authors": [
         {
             "name": "Ruslan Slinkov",
