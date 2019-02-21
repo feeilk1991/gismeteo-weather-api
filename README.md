@@ -12,7 +12,7 @@ Uses Android application endpoints, so you don't need token.
 Using Composer:
 
 ``` bash
-$ composer require slruslan/gismeteo-weather-api --dev
+$ composer require feelik1991/gismeteo-weather-api --dev
 ```
 
 ## Usage
