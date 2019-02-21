@@ -1,5 +1,5 @@
 {
-    "name": "feelik1991/gismeteo-weather-api",
+    "name": "gismeteo-weather-api",
     "description": "Fork for simple PHP wrapper for Gismeteo private weather endpoints",
     "version": "1.0",
     "license": "GPL",
