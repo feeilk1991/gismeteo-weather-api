@@ -1,6 +1,6 @@
 {
-    "name": "slruslan/gismeteo-weather-api",
-    "description": "A simple PHP wrapper for Gismeteo private weather endpoints",
+    "name": "feelik1991/gismeteo-weather-api",
+    "description": "Fork for simple PHP wrapper for Gismeteo private weather endpoints",
     "version": "1.0",
     "license": "GPL",
     "homepage": "https://github.com/slruslan/gismeteo-weather-api",
@@ -19,3 +19,4 @@
         "psr-4": {"Slruslan\\Gismeteo\\": "src/"}
     }
 }
+
