@@ -16,7 +16,7 @@
         "guzzlehttp/guzzle": "^6.2"
     },
     "autoload": {
-        "psr-4": {"Slruslan\\Gismeteo\\": "src/"}
+        "psr-4": {"feelik1991\\Gismeteo\\": "src/"}
     }
 }
 
